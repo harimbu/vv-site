@@ -1,24 +1,7 @@
-# vv-site
+### firebase로 백앤드 구성하기
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [x] ~~realtime database CRUD~~
+- [x] ~~Google 인증 처리~~
+- [ ] firestore CRUD
+- [ ] firebase hosting
+- [ ] firebase Functions
