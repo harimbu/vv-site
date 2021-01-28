@@ -64,8 +64,8 @@ export default {
           },
           {
             icon: 'mdi-account-multiple',
-            items: [{ title: '최근 글', to: '/recent' }],
-            title: '활동'
+            items: [{ title: 'board', to: '/board' }],
+            title: '게시판'
           }
         ]
       }
